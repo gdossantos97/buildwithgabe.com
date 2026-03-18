@@ -32,7 +32,7 @@ export default function About() {
             {[
               { value: "50+", label: "Partners Guided at Toast" },
               { value: "500+", label: "Voicely Downloads" },
-              { value: "30K+", label: "Content Views" },
+              { value: "250K+", label: "Content Views" },
               { value: "5+", label: "Years Building AI" },
             ].map((stat) => (
               <div

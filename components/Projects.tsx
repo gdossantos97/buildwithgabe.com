@@ -11,7 +11,7 @@ const projects = [
       "Scaled to 500+ downloads and 7 paying subscribers generating $70 MRR",
       "30K+ views through content marketing on TikTok/Instagram",
     ],
-    tags: ["Claude Code", "Python/Django", "OpenAI Whisper", "React Native", "LLM Architecture"],
+    tags: ["Python/Django", "Voice AI", "React Native", "LLM Architecture", "Supabase"],
     accent: "from-cyan-500 to-blue-600",
   },
   {
